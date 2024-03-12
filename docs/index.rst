@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Maxwell Dender's Custom Website!
+Maxwell Dender's Awesome Custom Website Title!
 ============================================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
